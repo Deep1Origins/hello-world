@@ -1,2 +1,3 @@
 A test file.
-This line, edited from GitHub editor, should reflect upon the local Git repo.
+This line, edited from GitHub editor, should reflect upon the local Git repo.L
+Login edit.
